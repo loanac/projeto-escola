@@ -18,7 +18,7 @@
     <header>
         <!-- navbar -->
         <nav class="navbar navbar-expand-lg navbar-light bg-transparent">
-            <a class="navbar-brand" href="#"><img class="icon" src="img/icone-home.png" alt=""></a>
+            <a class="navbar-brand" href="#"><img class="icon" src="public/img/icone-home.png" alt=""></a>
             <a class="nav-item nav-link social" href="#"><i class="fab fa-facebook-f"></i></a>
             <a class="nav-item nav-link social" href="#"><i class="fab fa-instagram"></i></a>
             <a class="nav-item nav-link social" href="#"><i class="fab fa-whatsapp"></i></a>
@@ -148,7 +148,7 @@
     <!-- lista de materiais -->
     <div class="container">
         <h1 class="text-center"> Lista de materiais</h1>
-        <p class="text-center"><small> (clique para baixar!) </small></p>
+        <p class="text-center textodown"> <small> <strong>(clique para baixar!)</strong> </small></p>
 
         <div class="row">
             <div class="col">
@@ -187,14 +187,6 @@
                 </div>
             </div>
         </div>
-
-
-
-
-
-
-
-
 
 
 
