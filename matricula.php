@@ -152,7 +152,7 @@
 
         <div class="row">
             <div class="col">
-                <div class="card text-white bg-danger mb-3" style="max-width: 18rem;">
+                <div class="card text-white bg-danger mb-3 rounded-circle" style="max-width: 18rem;">
                     <div class="card-body">
                         <h5 class="card-title text-center"><i class="fas fa-cloud-download-alt"></i></h5>
                         <p class="card-text text-center"> <strong> Infantil I</strong></p>
@@ -161,7 +161,7 @@
             </div>
 
             <div class="col">
-                <div class="card text-white bg-danger mb-3" style="max-width: 18rem;">
+                <div class="card text-white bg-danger mb-3 rounded-circle" style="max-width: 18rem;">
                     <div class="card-body">
                         <h5 class="card-title text-center"><i class="fas fa-cloud-download-alt"></i></h5>
                         <p class="card-text text-center"> <strong> Infantil II</strong></p>
@@ -170,7 +170,7 @@
             </div>
 
             <div class="col">
-                <div class="card text-white bg-danger mb-3" style="max-width: 18rem;">
+                <div class="card text-white bg-danger mb-3 rounded-circle" style="max-width: 18rem;">
                     <div class="card-body">
                         <h5 class="card-title text-center"><i class="fas fa-cloud-download-alt"></i></h5>
                         <p class="card-text text-center"> <strong> Infantil III</strong></p>
@@ -179,7 +179,7 @@
             </div>
 
             <div class="col">
-                <div class="card text-white bg-danger mb-3" style="max-width: 18rem;">
+                <div class="card text-white bg-danger mb-3 rounded-circle" style="max-width: 18rem;">
                     <div class="card-body">
                         <h5 class="card-title text-center"><i class="fas fa-cloud-download-alt"></i></h5>
                         <p class="card-text text-center"> <strong> Infantil IV</strong></p>
