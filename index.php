@@ -31,12 +31,12 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
-                    <a class="nav-item nav-link active" href="paginas/inicial.php"> Início <span class="sr-only">(Página atual)</span></a>
-                    <a class="nav-item nav-link" href="paginas/sobre.php">Sobre</a>
-                    <a class="nav-item nav-link" href="paginas/ensino.php">Ensino</a>
-                    <a class="nav-item nav-link" href="paginas/salavirtual.php">Sala Virtual</a>
-                    <a class="nav-item nav-link" href="paginas/matricula.php">Matrícula</a>
-                    <a class="nav-item nav-link" href="paginas/contato.php">Contatos</a>
+                    <a class="nav-item nav-link active" href="index.php?pg=inicial"> Início <span class="sr-only">(Página atual)</span></a>
+                    <a class="nav-item nav-link" href="index.php?pg=sobre">Sobre</a>
+                    <a class="nav-item nav-link" href="index.php?pg=ensino">Ensino</a>
+                    <a class="nav-item nav-link" href="index.php?pg=salavirtual">Sala Virtual</a>
+                    <a class="nav-item nav-link" href="index.php?pg=matricula">Matrícula</a>
+                    <a class="nav-item nav-link" href="index.php?pg=contato">Contatos</a>
                 </div>
             </div>
         </nav>
