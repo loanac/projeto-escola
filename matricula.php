@@ -149,20 +149,48 @@
     <div class="container">
         <h1 class="text-center"> Lista de materiais</h1>
         <p class="text-center"><small> (clique para baixar!) </small></p>
+
         <div class="row">
             <div class="col">
                 <div class="card text-white bg-danger mb-3" style="max-width: 18rem;">
                     <div class="card-body">
                         <h5 class="card-title text-center"><i class="fas fa-cloud-download-alt"></i></h5>
-                        <p class="card-text">Infantil I</p>
+                        <p class="card-text text-center"> <strong> Infantil I</strong></p>
                     </div>
                 </div>
-                <div class="col"></div>
-                <div class="col"></div>
-                <div class="col"></div>
             </div>
 
+            <div class="col">
+                <div class="card text-white bg-danger mb-3" style="max-width: 18rem;">
+                    <div class="card-body">
+                        <h5 class="card-title text-center"><i class="fas fa-cloud-download-alt"></i></h5>
+                        <p class="card-text text-center"> <strong> Infantil II</strong></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="card text-white bg-danger mb-3" style="max-width: 18rem;">
+                    <div class="card-body">
+                        <h5 class="card-title text-center"><i class="fas fa-cloud-download-alt"></i></h5>
+                        <p class="card-text text-center"> <strong> Infantil III</strong></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="card text-white bg-danger mb-3" style="max-width: 18rem;">
+                    <div class="card-body">
+                        <h5 class="card-title text-center"><i class="fas fa-cloud-download-alt"></i></h5>
+                        <p class="card-text text-center"> <strong> Infantil IV</strong></p>
+                    </div>
+                </div>
+            </div>
         </div>
+
+
+
+
 
 
 
