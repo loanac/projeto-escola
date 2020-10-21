@@ -1,0 +1,26 @@
+.icon {
+    width: 50px;
+}
+
+nav .navbar {
+    z-index: 100;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+.iconEvent {
+    width: 30px;
+}
+
+.social {
+    list-style: none;
+    color: black;
+}
+
+
+/* pag matricula */
+
+.matric1 {
+    background-color: #8B0000;
+}
