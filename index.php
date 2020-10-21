@@ -45,32 +45,30 @@
 
 
     <?php
-    if (isset($_GET['pg'])) {
-        $paginas = $_GET['pg'];
-        switch ($paginas) {
+    $paginas = isset($_GET['pg']);
+    if ($paginas) {
+        switch ($_GET['pg']) {
             case 'inicial':
-                include "paginas/inicial.php";
+                include_once "paginas/inicial.php";
                 break;
             case 'sobre':
-                include "paginas/sobre.php";
+                include_once "paginas/sobre.php";
                 break;
             case 'ensino':
-                include "paginas/ensino.php";
+                include_once "paginas/ensino.php";
                 break;
             case 'salavirtual':
-                include "paginas/salavirtual.php";
+                include_once "paginas/salavirtual.php";
                 break;
             case 'matricula':
-                include "paginas/matricula.php";
+                include_once "paginas/matricula.php";
                 break;
             case 'contato':
-                include "paginas/contato.php";
-                break;
-
-            default:
-                #code...
+                include_once "paginas/contato.php";
                 break;
         }
+    } else {
+        include_once "paginas/inicial.php";
     }
     ?>
 
