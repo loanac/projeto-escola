@@ -31,12 +31,12 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
-                    <a class="nav-item nav-link active" href=""> Início <span class="sr-only">(Página atual)</span></a>
-                    <a class="nav-item nav-link" href="#">Sobre</a>
-                    <a class="nav-item nav-link" href="#">Ensino</a>
-                    <a class="nav-item nav-link" href="#">Sala Virtual</a>
-                    <a class="nav-item nav-link" href="matricula.php">Matrícula</a>
-                    <a class="nav-item nav-link" href="#">Contatos</a>
+                    <a class="nav-item nav-link active" href="paginas/inicial.php"> Início <span class="sr-only">(Página atual)</span></a>
+                    <a class="nav-item nav-link" href="paginas/sobre.php">Sobre</a>
+                    <a class="nav-item nav-link" href="paginas/ensino.php">Ensino</a>
+                    <a class="nav-item nav-link" href="paginas/salavirtual.php">Sala Virtual</a>
+                    <a class="nav-item nav-link" href="paginas/matricula.php">Matrícula</a>
+                    <a class="nav-item nav-link" href="paginas/contato.php">Contatos</a>
                 </div>
             </div>
         </nav>
@@ -44,76 +44,35 @@
     </header>
 
 
-    <!-- slides -->
-    <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
-        <div class="carousel-inner">
-            <div class="carousel-item active">
-                <img class="d-block w-100" src="public/img/crianca.png" alt="Primeiro Slide">
-            </div>
-            <div class="carousel-item">
-                <img class="d-block w-100" src="public/img/slide1.png" alt="Segundo Slide">
-            </div>
-            <div class="carousel-item">
-                <img class="d-block w-100" src="public/img/slide3.png" alt="Terceiro Slide">
-            </div>
-        </div>
-        <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Anterior</span>
-        </a>
-        <a class="carousel-control-next" href="#carouselExampleFade" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Próximo</span> 
-        </a>
-    </div>
-    <!-- final do slide -->
+    <?php
+    if (isset($_GET['pg'])) {
+        $paginas = $_GET['pg'];
+        switch ($paginas) {
+            case 'inicial':
+                include "paginas/inicial.php";
+                break;
+            case 'sobre':
+                include "paginas/sobre.php";
+                break;
+            case 'ensino':
+                include "paginas/ensino.php";
+                break;
+            case 'salavirtual':
+                include "paginas/salavirtual.php";
+                break;
+            case 'matricula':
+                include "paginas/matricula.php";
+                break;
+            case 'contato':
+                include "paginas/contato.php";
+                break;
 
-    <div class="container">
-        <div class="row">
-            <!-- coluna de noticia -->
-            <div class="col">
-                <br>
-                <h3 class="text-center"><i class="far fa-newspaper"></i> Notícias</h3>
-            </div>
-
-
-            <!-- coluna eventos -->
-            <div class="col">
-                <br>
-                <h3 class="text-center"><i class="far fa-clock"></i> Eventos</h3>
-                <div class="row">
-                    <div class="col-3">
-                        <img class="iconEvent" src="public/img/calendar.png" alt="">
-                    </div>
-                    <div class="col-9">
-                        <p> Semana cultural- Seg a Sex- 7h às 12h</p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-3">
-                        <img class="iconEvent" src="public/img/calendar.png" alt="">
-                    </div>
-                    <div class="col-9">
-                        <p> Feira de Ciências- 30/10, 8h</p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-3">
-                        <img class="iconEvent" src="public/img/calendar.png" alt="">
-                    </div>
-                    <div class="col-9">
-                        <p> Participe do dia nacional da saúde e nutrição!</p>
-                    </div>
-                </div>
-            </div>
-
-
-        </div>
-
-
-
-
-    </div>
+            default:
+                #code...
+                break;
+        }
+    }
+    ?>
 
 
 
@@ -126,9 +85,9 @@
 
 
     <!-- scripts jQuery e Javascript -->
-    <script src="js/jquery.js"></script>
-    <script src="css/js/bootstrap.bundle.min.js"></script>
-    <script src="css/js/bootstrap.min.js"></script>
+    <script src="public/js/jquery.js"></script>
+    <script src="public/css/js/bootstrap.bundle.min.js"></script>
+    <script src="public/css/js/bootstrap.min.js"></script>
 </body>
 
 </html>
