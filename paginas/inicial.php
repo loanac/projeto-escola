@@ -34,6 +34,7 @@
         <!-- coluna eventos -->
         <div class="col">
             <br>
+            <h3 class="text-center"><i class="far fa-clock"></i> Reginaldo</h3>
             <h3 class="text-center"><i class="far fa-clock"></i> Eventos</h3>
             <div class="row">
                 <div class="col-3">
