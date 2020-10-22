@@ -10,6 +10,14 @@
             <br>
             <h1>Como usar o Classroom?</h1>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/XeKlAF3r61g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <br>
+            <br>
+            <br>
+            <p class="textoSala">No atual cenário de avanço da <strong>COVID-19</strong>, o Colégio Lorem Ipsum fechou duas grandes parcerias: uma com a <strong>SOMOS Educação</strong>, uma das principais empresas de educação básica do Brasil, e outra com a <strong>Google</strong>, uma das maiores empresas de tecnologia do mundo.
+
+                Graças a essas parcerias, estaremos utilizando às plataformas Google for Education e a Plurall, ambientes virtuais de aprendizagem que podem ser acessados por estudantes e professores em qualquer hora e em qualquer lugar. Seja por computador ou telefone.
+
+                No Google Classroom e na Plurall, estaremos disponibilizando aulas ao vivo, listas de exercícios, vídeo aulas, podcasts, material de estudo e etc. Nesse ambiente virtual, nossos professores irão entrar em lives exclusivas para alunos Lorem Ipsum e além de explicarem o conteúdo, poderão tirar as dúvidas que surgem em relação às questões, conteúdo do material didático e o assunto abordado.</p>
         </div>
 
         <div class="col">
@@ -43,9 +51,10 @@
                         <div class="col">
                             <br>
                             <br>
+                            <p class="text-center"><strong>Solicite sua carteira de estudante, clique na imagem:</strong></p>
                             <a href="https://estudante.ciepe.com.br/inicio" target="blank">
 
-                                <img style="width: 400px;" src="public/img/student.png" alt="">
+                                <img style="width: 400px; justify-content: center;" src="public/img/student.png" alt="">
                             </a>
                         </div>
 

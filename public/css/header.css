@@ -1,0 +1,25 @@
+#tophead {
+    background-color: #179bd7;
+    width: 100%;
+}
+
+#tophead ul {
+    list-style: none;
+}
+
+.menu li {
+    display: inline-block;
+}
+
+.colegio p {
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+
+.nav-item {
+    text-align: center;
+}
+
+
+/* DEPOIMENTO */
