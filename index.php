@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="public/fonts/fontawesome-free-5.15.1-web/css/all.css">
     <!-- estilo css -->
     <link rel="stylesheet" href="public/css/meuEstilo.css">
+    <link rel="stylesheet" href="public/css/salavirtual.css">
 
     <title>Colégio Lorem Ipsum</title>
 
