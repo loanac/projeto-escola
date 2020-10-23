@@ -5,16 +5,18 @@
 
 
 <div class="text-center container">
-    <div class="card-body"" > 
-    </div>
+    <div  class="borda radius ">
 
-        
+        <div class="card-body">
+            
+            
+            
         <figure class="figure">
-            <iframe width="400" height="315"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="400" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <img src="public/img/ensino.jpg" class="figure-img img-fluid rounded" alt="Imagem de um quadrado genérico com bordas arredondadas, em uma figure.">
             <figcaption class="figure-caption">aprendizado didatico.</figcaption>
         </figure>
-
+        
         
         <div class="row">
             
@@ -82,4 +84,6 @@
                 </div>
             </div>
         </div>
-<hr>
+    </div>
+</div>
+    <hr>
