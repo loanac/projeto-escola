@@ -18,7 +18,8 @@
 
 <div class="container">
 
-    <img src="public/img/educacao.jpg" alt="img-fluid"><hr>
+    <img src="public/img/educacao.jpg" alt="img-fluid">
+    <hr>
 
 
 
@@ -36,10 +37,11 @@
 </div><br>
 
 <div class="container">
-
+    
     <img src="public/img/original.jpg" alt="">
 
-</div><hr>
+</div>
+<hr>
 <h1 class="text-center"> Nossa Estrutura</h1>
 </div>
 <hr>
