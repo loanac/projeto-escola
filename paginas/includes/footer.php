@@ -3,7 +3,7 @@
 
 <footer>
 
-    <table class="table table-borderless">
+    <table class="table table-borderless"><hr>
         <thead>
         <tr>
             <th scope="col"></th>
