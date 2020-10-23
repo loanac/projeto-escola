@@ -28,22 +28,4 @@
                         <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Telefone com DDD*">
                     </div>
 
-                    <div class="form-group">
-                        <label for="exampleFormControlInput1"></label>
-                        <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Assunto*">
-                    </div>
 
-                    <div class="form-group">
-                        <label for="exampleFormControlTextarea1"></label>
-                        <textarea class="form-control" id="exampleFormControlTextarea1" placeholder="Mensagem*" rows="10"></textarea>
-                    </div>
-                    <button type="submit" class="btn btn-primary">ENVIAR MENSAGEM</button>
-                    <hr>
-
-                    <img src="public/img/mapa.png" class="img-fluid" alt="Imagem responsiva">
-
-                </form>
-            </div>
-        </div>
-    </div>
-</div>
