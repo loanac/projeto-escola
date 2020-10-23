@@ -1,5 +1,5 @@
 <!-- Sobre -->
-<h1>Sobre Nós</h1><br>
+<h1 class="text-center"> Sobre Nós</h1><br>
 
 <div class="container">
 
@@ -18,7 +18,7 @@
 
 <div class="container">
 
-    <img src="https://via.placeholder.com/500x200" alt="">
+    <img src="public/img/educacao.jpg" alt="img-fluid">
 
 
 
@@ -35,45 +35,45 @@
 </div>
 </div>
 
-<div class="container"> 
+<div class="container">
 
-    <img src="https://via.placeholder.com/500x300" alt="">
-    
-</div>
+    <img src="public/img/original.jpg" alt="">
 
+</div><hr>s
+<h1 class="text-center"> Nossa Estrutura</h1>
 </div>
-<hr>s
+<hr>
 <div class="container">
     <div class="row">
 
         <div class="col my-1 text-center">
-            <img src="https://via.placeholder.com/200x200" alt="">
+            <img src="public/img/lazer.jpg" alt="">
         </div>
 
         <div class="col my-1 text-center">
-            <img src="https://via.placeholder.com/200x200" alt="">
+            <img src="public/img/corredor.jpg" alt="">
 
         </div>
 
         <div class="col my-1 text-center">
-            <img src="https://via.placeholder.com/200x200" alt="">
+            <img src="public/img/img_area.jpg" alt="">
         </div>
     </div>
 
     <div class="row">
 
         <div class="col my-1 text-center">
-            <img src="https://via.placeholder.com/200x200" alt="">
+            <img src="public/img/quadra.jpg" alt="">
 
         </div>
 
         <div class="col my-1 text-center">
-            <img src="https://via.placeholder.com/200x200" alt="">
+            <img src="public/img/.jpg" alt="">
 
         </div>
 
         <div class="col my-1 text-center">
-            <img src="https://via.placeholder.com/200x200" alt="">
+            <img src="public/img/alunos.jpg" alt="">
 
         </div>
     </div>
@@ -89,7 +89,13 @@
 
 
 
-
+<div class="carousel-item">
+    <img src="public/img/lazer.jpg" alt="...">
+    <div class="carousel-caption d-none d-md-block">
+        <h5>...</h5>
+        <p>escola</p>
+    </div>
+</div>
 
 
 
