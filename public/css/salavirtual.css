@@ -13,3 +13,18 @@
     font-size: 20px;
     text-align: justify;
 }
+
+
+/*  botao matricula hover */
+
+.bolinha {
+    background-color: #179bd7;
+    width: 150px;
+}
+
+.bolinha:hover {
+    background-color: crimson;
+}
+
+
+/* evento img */
