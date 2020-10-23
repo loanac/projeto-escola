@@ -27,6 +27,8 @@ if ($paginas) {
 } else {
     include_once "paginas/inicial.php";
 }
+
+include_once 'paginas/includes/footer.php';
 ?>
 
 
