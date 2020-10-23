@@ -89,13 +89,9 @@
 <!-- destaques -->
 <div class="container">
   <br>
-  <h1 class="text-center"> Destaques</h1>
+  <h1> Destaques</h1>
   <br>
-  
-
 </div>
-  
-  
 
 <!-- depoimentos -->
 <div class="container">
@@ -168,7 +164,15 @@
     </div>
   </div>
 </div>
-</div>
-</div>
+<!-- fim depoimentos -->
+
+
+
+
+
+<!-- BACK TO TOP  -->
+<a id="back-to-top" href="#" class="btn btn-light btn-lg back-to-top" role="button"><i class="fas fa-chevron-up"></i></a>
+
+
 <!-- fim -->
 </div>

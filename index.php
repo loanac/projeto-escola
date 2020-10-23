@@ -46,6 +46,7 @@ include_once 'paginas/includes/footer.php';
 <script src="public/css/js/bootstrap.bundle.min.js"></script>
 <script src="public/css/js/bootstrap.min.js"></script>
 <script src="public/js/depo.js"></script>
+<script src="public/js/botao.js"></script>
 </body>
 
 </html>
