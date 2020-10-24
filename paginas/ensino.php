@@ -1,7 +1,7 @@
 <!-- Ensino -->
 
-<h1 class="text-center">Ensino</h1>
-<hr>
+
+
 
 
 <div class="text-center container">
@@ -9,28 +9,20 @@
 
         <div class="card-body">
             
-            
-            
-        <figure class="figure">
-            <iframe width="400" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            <img src="public/img/ensino.jpg" class="figure-img img-fluid rounded" alt="Imagem de um quadrado genérico com bordas arredondadas, em uma figure.">
+        
+            <img src="public/img/ensino.jpg" class=" img-fluid" alt="Imagem de um quadrado genérico com bordas arredondadas, em uma figure.">
             <figcaption class="figure-caption">aprendizado didatico.</figcaption>
-        </figure>
+        
         
         
         <div class="row">
-            
-            </div>
-            
-            
-            
             
             <div class="accordion" id="accordionExample">
                 <div class="card">
                     <div class="card-header" id="headingOne">
                         <h5 class="mb-0">
                             <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                Ensino infantil
+                                Ensino Infantil
                             </button>
                         </h5>
                     </div>
@@ -53,7 +45,7 @@
                     <div class="card-header" id="headingTwo">
                         <h5 class="mb-0">
                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                Ensino fundametal
+                                Ensino Fundamental
                             </button>
                         </h5>
                     </div>
@@ -69,7 +61,7 @@
                     <div class="card-header" id="headingThree">
                         <h5 class="mb-0">
                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                Ensino medio
+                                Ensino Médio
                             </button>
                         </h5>
                         
@@ -77,7 +69,7 @@
                     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
                         <div class="card-body">
                             O ensino médio é a última etapa da educação básica brasileira. Com duração total de três anos, ele tem como principal objetivo aprimorar os conhecimentos obtidos pelos estudantes no ensino fundamental, tendo foco na preparação para o mercado de trabalho e o ensino superior. Os alunos do ensino médio são adolescentes que têm entre 15 e 17 anos, que já podem tomar suas próprias decisões quando o assunto é estudar: escolher ir para a faculdade ou não,
-                            investir em curso técnico ou não, focar mais a sua atenção em uma disciplina ou outra...
+                            investir em curso técnico ou não, focar mais a sua atenção em uma disciplina ou outra.
                         </div>
                     </div>
                     
@@ -86,4 +78,6 @@
         </div>
     </div>
 </div>
-    <hr>
+  <!-- BACK TO TOP  -->
+
+  <a id="back-to-top" href="#" class="btn btn-light btn-lg back-to-top" role="button"><i class="fas fa-chevron-up"></i></a>

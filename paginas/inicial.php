@@ -67,9 +67,10 @@
 
 
       <div class="col">
-        <div class="container">
+        <div class="container borda">
           <form>
             <div class="form-group">
+              <br>
               <h4>Receba novidades</h4>
               <hr>
               <p class="text-muted font-italic"> Receba notícias, dicas e informações sobre o Colégio Lorem Ipsum</p>
@@ -85,6 +86,7 @@
 
             </div>
             <button type="submit" class="btn btn-danger">Cadastrar e-mail</button>
+            <br>
           </form>
         </div>
 
