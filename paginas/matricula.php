@@ -1,4 +1,4 @@
-<div class="container"> 
+<div class="container">
     <section class="matric1">
         <br>
         <h1 class="textanima">
@@ -120,7 +120,7 @@
         </div>
     </div>
 </div>
- 
+
 <!-- lista de materiais -->
 <div class="container">
     <h1 class="text-center"> Lista de materiais</h1>
@@ -163,7 +163,8 @@
             </div>
         </div>
     </div>
-    <!-- BACK TO TOP  -->
+
+</div>
+<!-- BACK TO TOP  -->
 
 <a id="back-to-top" href="#" class="btn btn-light btn-lg back-to-top" role="button"><i class="fas fa-chevron-up"></i></a>
-
