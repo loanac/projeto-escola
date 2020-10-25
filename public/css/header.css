@@ -3,6 +3,11 @@
     width: 100%;
 }
 
+#bottom {
+    background-color: midnightblue;
+    width: 100%;
+}
+
 #tophead ul {
     list-style: none;
 }

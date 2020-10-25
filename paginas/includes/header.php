@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="public/css/meuEstilo.css">
     <link rel="stylesheet" href="public/css/salavirtual.css">
     <link rel="stylesheet" href="public/css/header.css">
-    <link rel="stylesheet" href="public/css/pikachu.css">
+   
 
 
     <title>Colégio Lorem Ipsum</title>
