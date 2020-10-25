@@ -21,6 +21,12 @@
     text-align: center;
 }
 
+.contatinho {
+    border-radius: 6px;
+    background-image: linear-gradient( to right, #179bd7, crimson);
+    border: none;
+}
+
 
 /* BOTAO */
 

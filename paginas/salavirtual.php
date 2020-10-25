@@ -8,7 +8,7 @@
     <div class="row">
         <div class="col">
             <br>
-            <h1>Como usar o Classroom?</h1>
+            <h2 class="text-info">Como usar o Classroom?</h2>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/XeKlAF3r61g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <br>
             <br>

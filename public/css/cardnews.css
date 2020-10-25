@@ -1,0 +1,7 @@
+#carousel-card .carousel-control-next,
+#carousel-card .carousel-control-prev {
+    width: 5%;
+    background-color: #333;
+}
+
+.carousel

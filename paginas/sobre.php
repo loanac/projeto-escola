@@ -5,7 +5,7 @@
 <div class="container borda">
 
     <br>
-    <h4 class="alert-heading">O que é a Escola Digital?
+    <h4 class="alert-heading text-center">O que é a Escola Digital?
     </h4>
     <p class="lead" >
         É uma plataforma gratuita de busca que oferece a professores,
@@ -13,7 +13,7 @@
         dinamismo e inovação às práticas pedagógicas!!
     </p>
     <br>
-    <img class="w-50" src="public/img/educacao.jpg" alt="img-fluid">
+    <img class="centraliza" src="public/img/educacao.jpg" alt="img-fluid">
 
 
 
@@ -26,7 +26,7 @@
 
     <br>
     <br>
-    <h4>Quais são os principais benefícios da plataforma?
+    <h4 class="text-center">Quais são os principais benefícios da plataforma?
     </h4>
     <p class="lead">
         - Apoia as práticas pedagógicas;
@@ -34,7 +34,8 @@
         - Oferece um acervo diferenciado de conteúdos e formatos;
         - Possui planos de aula e objetos digitais de aprendizagem (ODAs) alinhados à BNCC.
     </p><br>
-    <img class="w-50 justify-content-center" src="public/img/original.jpg" alt="">
+    <img class="centraliza" src="public/img/original.jpg" alt="">
+    <br>
 </div>
 
 

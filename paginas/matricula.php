@@ -35,10 +35,11 @@
         </div>
     </section>
 </div>
+
 <div class="container">
     <section class="sec2">
         <br>
-        <h1 class="text-center">Procedimentos para Matrícula</h1>
+        <h1 class="text-center text-danger display-4">Procedimentos para Matrícula</h1>
         <br>
         <div class="row">
             <div class="col">
@@ -67,7 +68,7 @@
 <!-- valores de mat -->
 <div class="container">
     <br>
-    <h1 class="text-center">Valores de matrícula 2020</h1>
+    <h1 class="text-center text-danger display-4">Valores de matrícula 2020</h1>
     <br>
     <div class="row">
         <div class="col">
@@ -123,8 +124,8 @@
 
 <!-- lista de materiais -->
 <div class="container">
-    <h1 class="text-center"> Lista de materiais</h1>
-    <p class="text-center textodown"> <small> <strong>(clique para baixar!)</strong> </small></p>
+    <h1 class="text-center text-info display-4"> Lista de materiais</h1>
+    <p class="text-center textodown text-danger"> <small> <strong>(clique para baixar!)</strong> </small></p>
 
     <div class="row">
         <div class="col">

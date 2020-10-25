@@ -5,6 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <link rel="shortcut icon" href="public/img/icone-home.png">
+
     <!-- bootstrap -->
     <link rel="stylesheet" href="public/css/css/bootstrap.css">
 
@@ -16,6 +18,8 @@
     <link rel="stylesheet" href="public/css/meuEstilo.css">
     <link rel="stylesheet" href="public/css/salavirtual.css">
     <link rel="stylesheet" href="public/css/header.css">
+    <link rel="stylesheet" href="public/css/pikachu.css">
+
 
     <title>Colégio Lorem Ipsum</title>
 
